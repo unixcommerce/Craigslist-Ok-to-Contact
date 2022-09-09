@@ -140,6 +140,7 @@ if __name__ == '__main__':
                         session.sendmail(smtp_email, receiver_address, message.as_string().format(url, url))
                         session.quit()
             print("\n" * 3, f'Sleeping for {sleep_time} seconds')
+            main_df.to_sql(database_table_name, con=con, if_exists='replace', index=False)
             time.sleep(sleep_time)
         print("Mail send")
         main_df.to_sql(database_table_name, con=con, if_exists='replace', index=False)
