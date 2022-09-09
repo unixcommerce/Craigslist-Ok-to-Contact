@@ -13,6 +13,14 @@ In this example, the scraper will pause for 60 seconds between each page
 
 python3 /home/opc/Scraper/Craigslist_Scraper_1.1.1.py -s=60
 
+System reqirments 
+
+python 3.9
+pandas
+requests
+parsel
+tqdm
+
 I hope you find this useful. It is very powerful if used in conjunction with a CRM
 
 
