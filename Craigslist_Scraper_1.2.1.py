@@ -1,5 +1,5 @@
 ## Current Version 1.2.1
-## Craigslist_Scraper 1.2.1  --  increase data storing time and fixed duplicate issue
+## Craigslist_Scraper 1.2.1  --  increase data storing time, fixed duplicate issue, connecting to database sooner in loop, and creating save on early termination
 ## Craigslist_Scraper 1.1.1  --  Sending email as HTML
 ## Craigslist_Scraper 1.1.0  --  Add system argument for sleep time
 
