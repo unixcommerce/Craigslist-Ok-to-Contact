@@ -14,3 +14,7 @@ In this example, the scraper will pause for 60 seconds between each page
 python3 /home/opc/Scraper/Craigslist_Scraper_1.1.1.py -s=60
 
 I hope you find this useful. It is very powerful if used in conjunction with a CRM
+
+
+# Duplicate send issue corrected. This was due to a issue updating database
+# Also, early terminatation will trigger gracefull exit while updating database
