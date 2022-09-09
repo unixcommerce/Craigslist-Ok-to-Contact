@@ -21,8 +21,8 @@ import email.message
 import argparse
 
 ##Configs
-smtp_email = 'sales@unixcommerce.com'
-smtp_pass = 'ncpjsalbdbkklhpm'
+smtp_email = 'email@gmail.com'
+smtp_pass = 'AppPassword'
 smtp_host = 'smtp.gmail.com'
 smtp_port = 587
 # receiver_address = 'hwtsvjpnzmzgfh@emergentvillage.org'
