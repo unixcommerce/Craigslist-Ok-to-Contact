@@ -23,6 +23,5 @@ tqdm
 
 I hope you find this useful. It is very powerful if used in conjunction with a CRM
 
-
-# Duplicate send issue corrected. This was due to an issue updating database permissions
-# Also, early termination will trigger graceful exit while updating database.
+-Duplicate send issue corrected. This was due to an issue updating database permissions
+-Also, early termination will trigger graceful exit while updating database.
