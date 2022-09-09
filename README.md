@@ -16,5 +16,5 @@ python3 /home/opc/Scraper/Craigslist_Scraper_1.1.1.py -s=60
 I hope you find this useful. It is very powerful if used in conjunction with a CRM
 
 
-# Duplicate send issue corrected. This was due to a issue updating database permissions
+# Duplicate send issue corrected. This was due to an issue updating database permissions
 # Also, early terminatation will trigger gracefull exit while updating database. 
