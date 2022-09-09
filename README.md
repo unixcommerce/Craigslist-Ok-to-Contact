@@ -17,4 +17,4 @@ I hope you find this useful. It is very powerful if used in conjunction with a C
 
 
 # Duplicate send issue corrected. This was due to a issue updating database permissions
-# Also, early terminatation will trigger gracefull exit while updating database. Will NOT throw exception
+# Also, early terminatation will trigger gracefull exit while updating database. 
