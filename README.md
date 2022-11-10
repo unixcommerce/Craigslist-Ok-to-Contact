@@ -26,3 +26,7 @@ I hope you find this useful. It is very powerful if used in conjunction with a C
 
 ###### Duplicate send issue corrected. This was due to an issue updating database permissions
 ###### Also, early termination will trigger graceful exit while updating database.
+
+*** The Scraper has been updated to work with proxy and API based pages. Please contact for details
+
+admin@unixcommerce.com
