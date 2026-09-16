@@ -25,4 +25,5 @@ I hope you find this useful. It is very powerful if used in conjunction with a C
 ~ 
 
 *** The Scraper has been updated to work with proxy and new result pages. ***
-*** Please see Craigslist_Scraper_1.3.0.py
+
+*** Please see Craigslist_Scraper_1.3.0.py ***
