@@ -13,7 +13,7 @@ In this example, the scraper will pause for 60 seconds between each page
 
 python3 /home/opc/Scraper/Craigslist_Scraper_1.1.1.py -s=60
 
-System reqirments 
+System requirements 
 
 python 3.9
 pandas
